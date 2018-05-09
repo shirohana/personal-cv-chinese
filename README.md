@@ -167,6 +167,12 @@ Projects
 >
 > 以 [Stylus](http://stylus-lang.com) 完整重構 [Bulma.css](https://bulma.io)
 
+#### Alfred3 Youtube Control
+
+> [https://github.com/shirohana/alfred3-youtube-control](https://github.com/shirohana/alfred3-youtube-control)
+>
+> 以 AppleScript 開發的 Alfred workflow
+
 #### Codepens
 
 - Draw `osu!` logo in CSS: [https://codepen.io/shirohana/pen/pLBRyj](https://codepen.io/shirohana/pen/pLBRyj)
