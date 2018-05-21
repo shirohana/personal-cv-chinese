@@ -47,17 +47,24 @@ Work Experience
 
 尚無工作經驗，熱烈求職中 :fire:
 
-Resent Progress
+Recent Activity
 ---------------
 
-最近（這兩週）正在玩 [Flow](https://flow.org) 並以此重構既有進行中之專案，準技能之一。
+主要開發環境從 Vim 8 轉為 NeoVim 2.2。[`.vimrc`](https://github.com/shirohana/environment/wiki/NeoVim)
 
-即使 Vim 8 支援異步操作，寫複合結構檔案類型（沒錯就是 Vue）卡頓感仍十分嚴重，再導入 `vim-flow`
-將使場面難以收拾，最後決定投入 `NeoVim` 懷抱，並以黑科技（[dein.vim](https://github.com/Shougo/dein.vim)）翻新整個開發環境。
+正以 [Flow](https://flow.org) 重構既有專案。
 
-經過數天調教，新玩具十分順手，使用者體驗 :100:
+接下來準備轉戰 Jest (from AVA)、Circle CI (from Travis CI) 和深入 Docker。
 
-接下來準備玩玩 Jest、Circle CI 和深入 Docker。
+Achievement
+-----------
+
+[![Codewars badge][codewars-badge]][codewars]
+
+最近在玩 C++ 拿 Codewars 練手，所以解題紀錄都是初級 C++；論解題難度和數量最高的是 CoffeeScript。
+
+[codewars-badge]: https://www.codewars.com/users/Shirohana/badges/micro
+[codewars]: https://www.codewars.com/users/Shirohana
 
 Skills
 ------
@@ -70,7 +77,8 @@ Skills
 > - 熟悉 Node.js 和 Browser API (DOM)
 > - 熟悉 JavaScript Design Pattern 和 MVC Architectures
 > - 熟悉 Vue.js and related modules (`vuex`, `vue-router`, Nuxt.js, etc.)
-> - 正在上手 [Flow](https://flow.org)
+> - 熟悉 JavaScript Unit-Test Frameworks like [AVA](https://github.com/avajs/ava)
+> - Training [Flow](https://flow.org)
 > - 曾分別使用 Coffee Script 和 TypeScript 一段時間；現以 ES7 + Babel 為主
 > - 熟悉 Webpack 和 Gulp
 > - 熟悉 NPM modules 管理 (Semantic Versioning)
@@ -137,8 +145,7 @@ Skills
 > - Vimer (NeoVim)
 > - 熟悉自動化腳本與工具 (Makefile, Gulp)
 > - 熟悉 CI Tools (`Travis CI`)
-> - 熟悉 Code Coverage Tools (`codecov` with `istanbul`)
-> - 熟悉 Unit-Test Tools (JavaScript: `AVA`)
+> - 熟悉 Code Coverage Tools (`istanbul` with `codecov`)
 > - 具 Nginx 配置經驗 (Multi Virtual Host、Multi Sub-domain Configuration, Reverse Proxy, etc.)，能配置 [SSL Labs](https://www.ssllabs.com) 評價 A+ 之伺服器
 > - 具 [Let's Encrypt](https://letsencrypt.org) 配置經驗，能在多個 Subdomain auto renew
 > - 熟悉設計 RESTful API
@@ -154,6 +161,12 @@ Projects
 > 所見即所得 Node.js API 開發利器，根據檔案結構動態生成路由，透過 `Middleware`、`Parameter`、以及 `ErrorCatcher`
 > 建立清晰的事件流，輕易打造出易於維護的後台。ESNext 完整支援。
 
+#### Bulma.stylus
+
+> [https://github.com/shirohana/bulma.stylus](https://github.com/shirohana/bulma.stylus)
+>
+> 以 [Stylus](http://stylus-lang.com) 完整重構 [Bulma.css](https://bulma.io)
+
 #### Simple Notepad Example
 
 > [\[Demo\]](https://shirohana.github.io/simple-notepad-example/)
@@ -161,21 +174,15 @@ Projects
 >
 > 去年寫給朋友的朋友的簡易筆記本範例。
 
-#### Bulma.stylus
-
-> [https://github.com/shirohana/bulma.stylus](https://github.com/shirohana/bulma.stylus)
->
-> 以 [Stylus](http://stylus-lang.com) 完整重構 [Bulma.css](https://bulma.io)
-
 #### Alfred3 Youtube Control
 
 > [https://github.com/shirohana/alfred3-youtube-control](https://github.com/shirohana/alfred3-youtube-control)
 >
 > 以 AppleScript 開發的 Alfred workflow
 
-#### Codepens
+#### CodePens
 
-- Draw `osu!` logo in CSS: [https://codepen.io/shirohana/pen/pLBRyj](https://codepen.io/shirohana/pen/pLBRyj)
+- Draw an `osu!` logo in CSS: [https://codepen.io/shirohana/pen/pLBRyj](https://codepen.io/shirohana/pen/pLBRyj)
 
 Contributions
 -------------
@@ -184,9 +191,7 @@ Contributions
 
 > [https://keepachangelog.com/zh-TW/1.0.0](https://keepachangelog.com/zh-TW/1.0.0/)
 >
-> 翻譯為繁體中文。
->
-> [PR](https://github.com/olivierlacan/keep-a-changelog/pull/202)
+> 翻譯為繁體中文。[PR](https://github.com/olivierlacan/keep-a-changelog/pull/202)
 
 #### Nuxt.js
 
@@ -206,5 +211,4 @@ Facebook: [https://www.facebook.com/shiro.hana.0608](https://www.facebook.com/sh
 Discord: `Hana Shiro#2858`
 
 Website (延遲開發): [https://www.shirohana.me](https://www.shirohana.me)
-
 
