@@ -50,7 +50,7 @@ Work Experience
 Recent Activity
 ---------------
 
-主要開發環境從 Vim 8 轉為 NeoVim 2.2。[`.vimrc`](https://github.com/shirohana/environment/wiki/NeoVim)
+主要開發環境從 Vim 8 轉為 NeoVim 2.2。[Wiki](https://github.com/shirohana/environment/wiki/NeoVim)
 
 正以 [Flow](https://flow.org) 重構既有專案。
 
@@ -121,7 +121,7 @@ Skills
 > - 熟悉多級正規化以及聯合查詢
 > - 熟悉 SQL Shell 及 Eloquent ORM
 
-#### Generic
+#### Common
 
 > Git
 >
@@ -137,19 +137,19 @@ Skills
 > - 精通
 > - 了解如何寫出有效率的正規表示式，知曉不同語言使用上的限制
 
-> Common
+> Miscs
 >
 > - 熟悉 Linux 常用指令和參數 (Mac && ArchLinux user)
 > - 熟悉 CLI 介面 (Oh-My-Zsh user)
 > - 熟悉 SSH/Tmux 等遠端工具
-> - Vimer (NeoVim)
+> - Vimer、Junior VimScripter ([my VIM wiki](https://github.com/shirohana/environment/wiki/NeoVim))
 > - 熟悉自動化腳本與工具 (Makefile, Gulp)
 > - 熟悉 CI Tools (`Travis CI`)
 > - 熟悉 Code Coverage Tools (`istanbul` with `codecov`)
 > - 具 Nginx 配置經驗 (Multi Virtual Host、Multi Sub-domain Configuration, Reverse Proxy, etc.)，能配置 [SSL Labs](https://www.ssllabs.com) 評價 A+ 之伺服器
 > - 具 [Let's Encrypt](https://letsencrypt.org) 配置經驗，能在多個 Subdomain auto renew
 > - 熟悉設計 RESTful API
-> - 熟悉軟體設計模式 (Design Pattern)
+> - 熟悉 Software Design Patterns
 
 Projects
 --------
@@ -199,7 +199,7 @@ Contributions
 >
 > 從數百 stars 看著它長成 12k star 的熱門專案，儘管貢獻微乎其微，但仍持續關注著。
 
-#### See more on my GitHub...
+#### See more on Hana's GitHub...
 
 Contact
 -------
