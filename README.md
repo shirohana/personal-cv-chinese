@@ -50,11 +50,22 @@ Work Experience
 Recent Activity
 ---------------
 
-主要開發環境從 Vim 8 轉為 NeoVim 2.2。[Wiki](https://github.com/shirohana/environment/wiki/NeoVim)
+主要開發環境已從 Vim 8 轉為 NeoVim 2.2。[Wiki](https://github.com/shirohana/environment/wiki/NeoVim)
 
-正以 [Flow](https://flow.org) 重構既有專案。
+目前正在（剛開始）替家裡開的安親美語班重構收費系統。其主要功能為：
 
-接下來準備轉戰 Jest (from AVA)、Circle CI (from Travis CI) 和深入 Docker。
+- 開立收費三聯單；透過串接 CLI Application 將 DOM 轉換成 pdf 利於列印
+- 學生與教師管理、項目與課程管理，並依照學生所數年級、班別等建立關聯性自動完成表單
+- 自訂學生收費單樣板
+- 項目預置內容 (template string)；例 `%m 月份教材費` -> `6 月份教材費`、`%+1M～%+2M月代訂餐費` -> `七～八月代訂餐費`等
+- 班主任、教師、工讀生權限組
+- 圓餅圖、柱狀圖、項目利潤、收支月結報表
+
+此次重構環境將由 PHP + MySQL 轉為 Node.js + MongoDB，基本上是砍掉重練……這樣算是重構嗎？
+
+<!-- 正以 [Flow](https://flow.org) 重構既有專案。 -->
+
+<!-- 接下來準備轉戰 Jest (from AVA)、Circle CI (from Travis CI) 和深入 Docker。 -->
 
 Achievement
 -----------
@@ -153,6 +164,25 @@ Skills
 
 Projects
 --------
+
+#### 個人網站
+
+> [https://www.shirohana.me](https://www.shirohana.me)
+>
+> 伺服器以 Node.js 開發，並透過 Nginx 做 Reverse Proxy 架在防火牆內。
+>
+> 目前暫時性停止更新與維護，[Recent Activity](#recent-activity) section 寫著是什麼插了隊。
+>
+> 前後端技術包含：
+> - SPA + SSR
+> - Vue series: vue, vuex, vue-router, nuxt, ...
+> - Several preprocessors: Pug, Stylus, Babel(ESNext)
+> - Complete RWD (until 4K)
+> - Full site over SSL (difference certificate per sub-domain)
+> - Google Analytics
+> - Google reCAPTCHA
+> - Connect to local mongoDB (in container) with Mongoose
+> - ...
 
 #### Dynapi (重構中)
 
