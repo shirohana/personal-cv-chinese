@@ -52,6 +52,10 @@ Recent Activity
 
 主要開發環境已從 Vim 8 轉為 NeoVim 2.2。[Wiki](https://github.com/shirohana/environment/wiki/NeoVim)
 
+- [vim-airline/vim-airline#1732](https://github.com/vim-airline/vim-airline/pull/1732)
+- [airblade/vim-gitgutter#529](https://github.com/airblade/vim-gitgutter/issues/529)
+- [vim-airline/vim-airline#1738](https://github.com/vim-airline/vim-airline/pull/1738)
+
 目前正在（剛開始）替家裡開的安親美語班重構收費系統。其主要功能為：
 
 - 開立收費三聯單；透過串接 CLI Application 將 DOM 轉換成 pdf 利於列印
