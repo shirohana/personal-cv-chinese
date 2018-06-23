@@ -1,6 +1,8 @@
 Hana's personal CV
 ==================
 
+### ❗️❗️❗️我拿到 Offer 了！短時間內不會更新
+
 Introduction
 ------------
 
@@ -45,7 +47,9 @@ Personality
 Work Experience
 ---------------
 
-尚無工作經驗，熱烈求職中 :fire:
+<del>尚無工作經驗，熱烈求職中 :fire:</del>
+
+#### Offer get! Temporary no longer updated.
 
 Recent Activity
 ---------------
