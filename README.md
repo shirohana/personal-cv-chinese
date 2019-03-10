@@ -1,6 +1,8 @@
 Hana's personal CV
 ==================
 
+> 目前正就業中呦！
+
 Introduction
 ------------
 
@@ -11,9 +13,9 @@ Introduction
 About Me
 --------
 
-本名為<b>吳聖謙</b>，男，21 歲，現居於<b>台灣新北市板橋區</b>。
+本名為<b>吳聖謙</b>，男，22 歲，現居於<b>台灣新北市板橋區</b>。
 
-目前任職於<b>果子云數位科技</b>，擔任 <b>JavaScript 前端工程師</b>。
+目前任職於<b>傳樂有限公司</b>，擔任<b>我也不知道我在做什麼</b>。
 
 Personality
 -----------
@@ -31,53 +33,57 @@ Personality
 Work Experience
 ---------------
 
-目前擔任<b>前端工程師</b>一職，就任於<b>果子云數位科技</b>接近六個月的時間；
+<ol>
+<li>
+<details>
+<summary>
+<code>2018-06-14 ~ 2018-12-19</code> | 果子云數位科技 | 前端工程師
+</summary><br>
 
-作為一位 Researcher，在這接近半年時間自學掌握了許多技術與知識，也在過程中為團隊引入其缺少的技術與規範。
+> <del>目前</del>日前擔任<b>前端工程師</b>一職，就任於<b>果子云數位科技</b>接近六個月的時間；
+>
+> 作為一位 Researcher，在這半年時間自學掌握了許多技術與知識，也在過程中為團隊引入其缺少的技術與規範。
+>
+> 但由於與主管理念有落差，再加上對自己的要求與堅持，日積月累之下最終選擇主動辭職，好聚好散。
+>
+> 完整經過詳見 [Level 2](#level-2-writing) (TODO)
+</details>
+</li>
 
-1. 2018/6/14~ | 果子云數位科技 | 前端工程師
+<li>
+<details open>
+<summary>
+<code>2018-12-24 ~</code> | 傳樂有限公司 | 擔任<b>我也不知道我在做什麼</b>
+</summary><br>
+
+> <del>目前</del>日前擔任<b>前端工程師</b>一職，就任於<b>果子云數位科技</b>接近六個月的時間；
+</details>
+</li>
+</ol>
 
 Recent Activity
 ---------------
 
-> _開始工作的這六個月中_
+> *目前在傳樂的兩個半月中*
 
 #### 工作面
 
-目前在果子云身兼一項客戶產品、兩項自有產品。
+進入傳樂後，被指派的任務與先前所學跨幅有點大，感覺整個人被拽出舒適圈，[](
+)先前準備的工具幾乎無用武之地 (´-ωก\`)
 
-果子云教會我如何與 PM 協調開發時長，以防我花過多額外的時間寫出根本不需要的好品質代碼，這一點我很感激他。
+從零開始花了兩週時間學 React Native，緊接著兩週內我在公司的第一個產品，就上架到雙平台了……
 
-由於果子云內部對我的排程規劃，我拿不出任何已上線的正式產品來自述……
-
-#### 開發環境
-
-- 主要開發環境從 Vim 8 轉為 NeoVim 2.2。[Wiki](https://github.com/shirohana/environment/wiki/NeoVim)
-
-    編修了一套完整的 Stylus Snippets，它顯著地縮短了我的開發時間，讓我的手指能跟上腦中的畫面。(Undocumented)
-
-    - [vim-airline/vim-airline#1732](https://github.com/vim-airline/vim-airline/pull/1732)
-    - [airblade/vim-gitgutter#529](https://github.com/airblade/vim-gitgutter/issues/529)
-    - [vim-airline/vim-airline#1738](https://github.com/vim-airline/vim-airline/pull/1738)
-    - ...and more
+目前有著平均 4.81 星評價 ٩(｡・ω・｡)و
 
 #### 技術面
 
-- 精通了 [Flow](https://flow.org)，並運用於產品中。
+- 熟悉了 [React Native](https://facebook.github.io/react-native)，並正式銷售於雙平台，獲得平均 4.8 星評價。
+  - react-navigation
+  - expo
+  - gesture-handler
+  - ...
 
-- 熟悉了 [Webpack](https://github.com/webpack/webpack)，能在產品模式下輸出最高效率的拆分模式。
-
-- 熟悉了 Docker 大部分操作與應用。
-
-    未包含 Machine、Swarm、Stack 等 DevOps 相關技術。
-
-- 熟悉了 Circle CI。
-
-- 精通了 CSS-Module；Stylus + BEM + CSS-Module + Webpack = :fire:
-
-- (為了工作)熟悉了 React.js，創造了富有靈活彈性且通用的模板專案。
-
-- 精通了 Redux 和 Redux-Saga :fire:
+- 熟悉了完整的產品上架流程；能獨立開發、簽署、上架 App 到雙平台。
 
 Achievement
 -----------
@@ -103,6 +109,7 @@ Skills
 > - 熟悉 JavaScript Design Pattern 和 MVC Architectures
 > - 熟悉 Vue.js and related modules (`vuex`, `vue-router`, Nuxt.js, etc.)
 > - 熟悉 React.js and related modules
+> - (new!) 熟悉 React Native 和 Expo
 > - 精通 Redux、Redux-Saga
 > - 熟悉 JavaScript Unit-Test Frameworks like [AVA](https://github.com/avajs/ava)
 > - 精通 [Flow](https://flow.org)
@@ -182,6 +189,7 @@ Skills
 > - 熟悉設計 RESTful API
 > - 熟悉 Software Design Patterns
 > - 精通 RexExp
+> - (new!) 熟悉 AppStore 和 Google Play 產品簽署、上架流程與操作
 
 Projects
 --------
@@ -207,7 +215,7 @@ Projects
 > - Connect to local mongoDB (in container) with Mongoose
 > - and more...
 
-#### Dynapi (重構中)
+#### Dynapi (擱置中)
 
 > [https://github.com/shirohana/dynapi](https://github.com/shirohana/dynapi)
 >
